@@ -1,16 +1,20 @@
-# first_app
+# Dice Roll App
 
-A new Flutter project.
+A simple Flutter app that displays a dice face. When the button is clicked, it generates a new dice face at random.
+
+## Features
+
+- Displays a dice face
+- Generates a new random dice face when the button is clicked
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter installed on your machine. You can follow the installation guide [here](https://flutter.dev/docs/get-started/install).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/jimmurf5/diceRoll.git
